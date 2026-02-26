@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "AutoParity: Autonomous ML Deployment Alignment"
+message: "If you use this software, please cite it."
+authors:
+  - family-names: [Azher]
+    given-names: [Aazam]
+version: 1.0.0
+date-released: 2026-03-05
